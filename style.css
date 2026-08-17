@@ -12,7 +12,7 @@ img {
 h1 {
   color: black;
   text-align: center;
-  font-size: 28px;
+  font-size: 24px;
   max-width: 2000px;
   
 }
@@ -20,7 +20,7 @@ h1 {
 h2 {
   color: black;
   text-align: center;
-  font-size: 24px;
+  font-size: 20px;
   max-width: 2000px;
 }
 
@@ -41,7 +41,7 @@ li {
 
 p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 16px;
   text-align: center;
   max-width: 2000px;        
 }
