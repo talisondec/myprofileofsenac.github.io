@@ -32,9 +32,9 @@ ul {
 
 li {
     color: black;
-    list-style-position: inside; /* Move os pontos da lista n„o enumerada para junto dos itens*/
+    list-style-position: inside; /* Move os pontos da lista n√£o enumerada para junto dos itens*/
     text-align: center;
-    font-size: 20px;
+    font-size: 14px;
     font-family: verdana;
     max-width: 2000px;
 }
